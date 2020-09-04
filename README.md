@@ -1,2 +1,3 @@
-# OOP-3-sem
-my labs
+Dmitriy
+group 5
+POIT
