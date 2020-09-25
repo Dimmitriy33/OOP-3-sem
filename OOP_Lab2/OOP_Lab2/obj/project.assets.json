@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\учеба\\ООП\\lab2\\OOP_Lab2\\OOP_Lab2\\OOP_Lab2.csproj",
+      "projectUniqueName": "d:\\учеба\\ООП\\OOP-3-sem\\OOP_Lab2\\OOP_Lab2\\OOP_Lab2.csproj",
       "projectName": "OOP_Lab2",
-      "projectPath": "D:\\учеба\\ООП\\lab2\\OOP_Lab2\\OOP_Lab2\\OOP_Lab2.csproj",
+      "projectPath": "d:\\учеба\\ООП\\OOP-3-sem\\OOP_Lab2\\OOP_Lab2\\OOP_Lab2.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\учеба\\ООП\\lab2\\OOP_Lab2\\OOP_Lab2\\obj\\",
+      "outputPath": "d:\\учеба\\ООП\\OOP-3-sem\\OOP_Lab2\\OOP_Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

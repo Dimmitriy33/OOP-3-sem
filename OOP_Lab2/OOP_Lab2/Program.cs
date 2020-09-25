@@ -67,6 +67,12 @@ namespace OOP_Lab2
             temp16 = Console.ReadLine();
             Console.WriteLine();
 
+            temp6 = temp6; // неявное преобразование
+            temp6 = temp7;
+            temp6 = temp8;
+            temp6 = temp9;
+            temp7 = temp9;
+
             Console.WriteLine("  --- Output ---");
             Console.WriteLine();
             Console.WriteLine($"Bool: {temp1}"); // 1 variant

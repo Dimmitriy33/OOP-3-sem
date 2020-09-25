@@ -11,3 +11,16 @@ D:\учеба\ООП\lab2\OOP_Lab2\OOP_Lab2\obj\Debug\netcoreapp3.1\OOP_Lab2.csp
 D:\учеба\ООП\lab2\OOP_Lab2\OOP_Lab2\obj\Debug\netcoreapp3.1\OOP_Lab2.dll
 D:\учеба\ООП\lab2\OOP_Lab2\OOP_Lab2\obj\Debug\netcoreapp3.1\OOP_Lab2.pdb
 D:\учеба\ООП\lab2\OOP_Lab2\OOP_Lab2\obj\Debug\netcoreapp3.1\OOP_Lab2.genruntimeconfig.cache
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\bin\Debug\netcoreapp3.1\OOP_Lab2.exe
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\bin\Debug\netcoreapp3.1\OOP_Lab2.deps.json
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\bin\Debug\netcoreapp3.1\OOP_Lab2.runtimeconfig.json
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\bin\Debug\netcoreapp3.1\OOP_Lab2.runtimeconfig.dev.json
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\bin\Debug\netcoreapp3.1\OOP_Lab2.dll
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\bin\Debug\netcoreapp3.1\OOP_Lab2.pdb
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\obj\Debug\netcoreapp3.1\OOP_Lab2.csprojAssemblyReference.cache
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\obj\Debug\netcoreapp3.1\OOP_Lab2.AssemblyInfoInputs.cache
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\obj\Debug\netcoreapp3.1\OOP_Lab2.AssemblyInfo.cs
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\obj\Debug\netcoreapp3.1\OOP_Lab2.csproj.CoreCompileInputs.cache
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\obj\Debug\netcoreapp3.1\OOP_Lab2.dll
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\obj\Debug\netcoreapp3.1\OOP_Lab2.pdb
+d:\учеба\ООП\OOP-3-sem\OOP_Lab2\OOP_Lab2\obj\Debug\netcoreapp3.1\OOP_Lab2.genruntimeconfig.cache
