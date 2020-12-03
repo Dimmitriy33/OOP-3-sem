@@ -1,0 +1,7 @@
+D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\obj\Debug\OOP_Lab13.csprojAssemblyReference.cache
+D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\obj\Debug\OOP_Lab13.csproj.CoreCompileInputs.cache
+D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\bin\Debug\OOP_Lab13.exe.config
+D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\bin\Debug\OOP_Lab13.exe
+D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\bin\Debug\OOP_Lab13.pdb
+D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\obj\Debug\OOP_Lab13.exe
+D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\obj\Debug\OOP_Lab13.pdb

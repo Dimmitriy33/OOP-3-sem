@@ -1,0 +1,13 @@
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\obj\Debug\netcoreapp3.1\OOP_Lab10.csprojAssemblyReference.cache
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\obj\Debug\netcoreapp3.1\OOP_Lab10.AssemblyInfoInputs.cache
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\obj\Debug\netcoreapp3.1\OOP_Lab10.AssemblyInfo.cs
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\bin\Debug\netcoreapp3.1\OOP_Lab10.exe
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\bin\Debug\netcoreapp3.1\OOP_Lab10.deps.json
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\bin\Debug\netcoreapp3.1\OOP_Lab10.runtimeconfig.json
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\bin\Debug\netcoreapp3.1\OOP_Lab10.runtimeconfig.dev.json
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\bin\Debug\netcoreapp3.1\OOP_Lab10.dll
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\bin\Debug\netcoreapp3.1\OOP_Lab10.pdb
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\obj\Debug\netcoreapp3.1\OOP_Lab10.dll
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\obj\Debug\netcoreapp3.1\OOP_Lab10.pdb
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\obj\Debug\netcoreapp3.1\OOP_Lab10.genruntimeconfig.cache
+D:\учеба\ООП\lab10\OOP_Lab10\OOP_Lab10\obj\Debug\netcoreapp3.1\OOP_Lab10.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yhSb0HYkArSzVkEz8NhHXasN/WWcRc+yaGHTGQr4jgZ9586z+e/woqn5VVkT3PYlbums4zCU88B262XqF7BDpw==",
+  "success": true,
+  "projectFilePath": "d:\\учеба\\ООП\\lab10\\OOP_Lab10\\OOP_Lab10\\OOP_Lab10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,65 @@
+02.12.2020 17:11:15
+Scan free drive space
+@
+02.12.2020 17:11:15
+Scan file system
+@
+02.12.2020 17:11:15
+Scan total, available space and volume label of drive
+@
+02.12.2020 17:11:15
+Checking path to file
+File name: D:\учеба\ООП\lab1\New.txt
+Path: D:\учеба\ООП\lab1\New.txt
+@
+02.12.2020 17:11:15
+Checking file size, extension and name
+File name: New
+Path: D:\учеба\ООП\lab1\New.txt
+@
+02.12.2020 17:11:15
+Checking file creation time
+File name: New
+Path: D:\учеба\ООП\lab1\New.txt
+@
+02.12.2020 17:11:15
+Checking number if files in directory
+Path: D:\учеба\ООП
+@
+02.12.2020 17:11:15
+Checking directory creation time
+Path: D:\учеба\ООП
+@
+02.12.2020 17:11:15
+Checking number of subdirectories
+Path: D:\учеба\ООП
+@
+02.12.2020 17:11:15
+Checking parent directory
+Path: D:\учеба\ООП
+@
+02.12.2020 17:11:15
+Creating SDLdirinfo.txt
+Path: C:\
+@
+02.12.2020 17:11:15
+Copying and renaming SDLdirinfo.txt
+Path: D:\учеба\ООП\lab13\SDLInspect\SDLdirinfo.txt@
+02.12.2020 17:11:15
+Deleting old SDLdirinfo.txt
+Path: D:\учеба\ООП\lab13\SDLInspect\SDLdirinfo.txt@
+02.12.2020 17:11:15
+Creating directory SDLFiles
+Path: D:\учеба\ООП\lab13\OOP_Lab13
+@
+02.12.2020 17:11:15
+Moving directory SDLFiles
+Path: D:\учеба\ООП\lab13\SDLInspect\SDLFiles
+02.12.2020 17:11:15
+Creating Zip Archive.rar
+Path: D:\учеба\ООП\lab13\SDLInspect\SDLFiles
+@
+02.12.2020 17:11:15
+Unzipping Archive.rar
+Path:  D:\учеба\ООП\lab13\SDLInspect
+@
