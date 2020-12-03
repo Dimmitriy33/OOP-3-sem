@@ -1,0 +1,7 @@
+D:\учеба\ООП\lab16\OOP_Lab16\OOP_Lab16\bin\Debug\OOP_Lab16.exe.config
+D:\учеба\ООП\lab16\OOP_Lab16\OOP_Lab16\bin\Debug\OOP_Lab16.exe
+D:\учеба\ООП\lab16\OOP_Lab16\OOP_Lab16\bin\Debug\OOP_Lab16.pdb
+D:\учеба\ООП\lab16\OOP_Lab16\OOP_Lab16\obj\Debug\OOP_Lab16.csprojAssemblyReference.cache
+D:\учеба\ООП\lab16\OOP_Lab16\OOP_Lab16\obj\Debug\OOP_Lab16.csproj.CoreCompileInputs.cache
+D:\учеба\ООП\lab16\OOP_Lab16\OOP_Lab16\obj\Debug\OOP_Lab16.exe
+D:\учеба\ООП\lab16\OOP_Lab16\OOP_Lab16\obj\Debug\OOP_Lab16.pdb
