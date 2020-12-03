@@ -77,7 +77,7 @@ namespace OOP_Lab13
 
         public static void Zip()
         {
-            ZipFile.CreateFromDirectory(@"D:\учеба\ООП\lab13\SDLInspect\SDLFiles", @"D:\учеба\ООП\lab13\SDLInspect\Archive.rar");
+            ZipFile.CreateFromDirectory(@"D:\учеба\ООП\lab13\SDLInspect\SDLFilesNEW", @"D:\учеба\ООП\lab13\SDLInspect\Archive.rar");
             Console.WriteLine("Zip Archive.rar is created");
 
             SDLLog.OpenFile().WriteLine($"{DateTime.Now}\nCreating Zip Archive.rar\nPath: D:\\учеба\\ООП\\lab13\\SDLInspect\\SDLFiles\n@");

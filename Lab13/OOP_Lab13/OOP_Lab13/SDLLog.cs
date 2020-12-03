@@ -9,7 +9,7 @@ namespace OOP_Lab13
 {
     public static class SDLLog
     {
-        private static string path = @"D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\bin\Debug\SDLlogfile.txt";
+        private static string path = @"D:\\учеба\\ООП\\lab13\\SDLlogfile.txt";
         public static StreamWriter file = new StreamWriter(path);
         public static string GetPath
         {
@@ -30,36 +30,55 @@ namespace OOP_Lab13
 
         public static void SDLWrite()
         {
-            string[] str = new string[69];
             int num = 0;
-            StreamReader file = new StreamReader(@"D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\bin\Debug\SDLlogfile.txt");
-            for (int i = 0; i < 69; i++)
+            StreamReader file = new StreamReader(@"D:\учеба\ООП\lab13\SDLlogfile.txt");
+            for (int i = 0; i < 100; i++)
             {
                 if (Equals(file.ReadLine(), "@"))
                 {
                     num++;
                 }
             }
-            for (int i = 1; i < 69; i++)
+            for (int i = 1; i < 100; i++)
             {
-                file.ReadLine();
-                if (file.ReadLine().Contains("Path"))
-                {
-                    while (!Equals(file.ReadLine(), "@"))
+                if(file.ReadLine() != null)
+                    if (file.ReadLine().Contains("Path"))
                     {
-                        i--;
-                    }
-                    while (Equals(file.ReadLine(), "@"))
-                    {
-                        Console.WriteLine(file.ReadLine());
-                        i++;
-                    }
+                        while (!Equals(file.ReadLine(), "@"))
+                        {
+                            i--;
+                        }
+                        while (Equals(file.ReadLine(), "@"))
+                        {
+                            Console.WriteLine(file.ReadLine());
+                            i++;
+                        }
 
-                }
+                    }
             }
             file.Close();
-            Console.WriteLine(num);
+            Console.WriteLine();
+            Console.WriteLine("Количество записей: " + num);
         }
+
+        public static void SDLDeletePartOfFile(int line)
+        {
+            StreamReader file = new StreamReader(@"D:\учеба\ООП\lab13\SDLlogfile.txt");
+            StreamWriter tempfile = new StreamWriter(@"D:\учеба\ООП\lab13\SDLlogfileTemp.txt");
+
+            for (int i = 0; i < line; i++)
+            {
+                tempfile.WriteLine(file.ReadLine());
+            }
+            file.Close();
+            tempfile.Close();
+            File.Delete("D:\\учеба\\ООП\\lab13\\SDLlogfile.txt");
+            File.Move("D:\\учеба\\ООП\\lab13\\SDLlogfileTemp.txt", "D:\\учеба\\ООП\\lab13\\SDLlogfile.txt");
+
+            Console.WriteLine();
+            Console.WriteLine($"SDLlogfile.txt частично очищен");
+        }
+
 
     }
 }

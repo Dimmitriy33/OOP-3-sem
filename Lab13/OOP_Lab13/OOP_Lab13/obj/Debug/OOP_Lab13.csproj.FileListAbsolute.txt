@@ -5,3 +5,10 @@ D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\bin\Debug\OOP_Lab13.exe
 D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\bin\Debug\OOP_Lab13.pdb
 D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\obj\Debug\OOP_Lab13.exe
 D:\учеба\ООП\lab13\OOP_Lab13\OOP_Lab13\obj\Debug\OOP_Lab13.pdb
+d:\учеба\ООП\OOP-3-sem\Lab13\OOP_Lab13\OOP_Lab13\bin\Debug\OOP_Lab13.exe.config
+d:\учеба\ООП\OOP-3-sem\Lab13\OOP_Lab13\OOP_Lab13\bin\Debug\OOP_Lab13.exe
+d:\учеба\ООП\OOP-3-sem\Lab13\OOP_Lab13\OOP_Lab13\bin\Debug\OOP_Lab13.pdb
+d:\учеба\ООП\OOP-3-sem\Lab13\OOP_Lab13\OOP_Lab13\obj\Debug\OOP_Lab13.csprojAssemblyReference.cache
+d:\учеба\ООП\OOP-3-sem\Lab13\OOP_Lab13\OOP_Lab13\obj\Debug\OOP_Lab13.csproj.CoreCompileInputs.cache
+d:\учеба\ООП\OOP-3-sem\Lab13\OOP_Lab13\OOP_Lab13\obj\Debug\OOP_Lab13.exe
+d:\учеба\ООП\OOP-3-sem\Lab13\OOP_Lab13\OOP_Lab13\obj\Debug\OOP_Lab13.pdb
